@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Playwrite+MX+Guides&family=Qwitcher+Grypen:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Caveat:wght@400..700&family=Playwrite+MX+Guides&family=Qwitcher+Grypen:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&family=Caveat:wght@400..700&family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Playwrite+MX+Guides&family=Qwitcher+Grypen:wght@400;700&display=swap');
+@theme{
+  --color-primary:#F08FA2;
+  --color-secondary:#481F31;
+  --font-qwicther:"Qwitcher Grypen, cursive"
+
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "Libertinus+Serif";
+  
+}
